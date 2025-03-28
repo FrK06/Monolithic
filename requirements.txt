@@ -1,0 +1,17 @@
+selenium
+langchain
+langchain-openai
+openai
+faiss-cpu
+python-dotenv
+langgraph
+langchain-community
+langchain-core
+webdriver-manager
+annoy
+twilio
+fastapi
+uvicorn
+python-multipart
+Pillow
+requests
